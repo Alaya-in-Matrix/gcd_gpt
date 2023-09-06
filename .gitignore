@@ -1,0 +1,4 @@
+*.swp
+toy_sentences
+checkpoints/
+mlruns/
